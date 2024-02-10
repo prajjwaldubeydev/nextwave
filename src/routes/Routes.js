@@ -40,7 +40,7 @@ const RoutesComponent = () => {
     <BrowserRouter>
       <Routes>
         <Route
-          path="/nextwaveproject"
+          path="/nextwave"
           element={
             <ListCreation
               lists={listData}
