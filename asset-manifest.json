@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/nextwaveproject/static/css/main.6af491e6.css",
-    "main.js": "/nextwaveproject/static/js/main.41f70249.js",
-    "static/js/592.80520ca2.chunk.js": "/nextwaveproject/static/js/592.80520ca2.chunk.js",
-    "index.html": "/nextwaveproject/index.html",
-    "main.6af491e6.css.map": "/nextwaveproject/static/css/main.6af491e6.css.map",
-    "main.41f70249.js.map": "/nextwaveproject/static/js/main.41f70249.js.map",
-    "592.80520ca2.chunk.js.map": "/nextwaveproject/static/js/592.80520ca2.chunk.js.map"
+    "main.css": "/nextwave/static/css/main.6af491e6.css",
+    "main.js": "/nextwave/static/js/main.2740f5db.js",
+    "static/js/592.80520ca2.chunk.js": "/nextwave/static/js/592.80520ca2.chunk.js",
+    "index.html": "/nextwave/index.html",
+    "main.6af491e6.css.map": "/nextwave/static/css/main.6af491e6.css.map",
+    "main.2740f5db.js.map": "/nextwave/static/js/main.2740f5db.js.map",
+    "592.80520ca2.chunk.js.map": "/nextwave/static/js/592.80520ca2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6af491e6.css",
-    "static/js/main.41f70249.js"
+    "static/js/main.2740f5db.js"
   ]
 }
